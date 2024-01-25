@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/angular-front-app/angular-front-app.iml" filepath="$PROJECT_DIR$/angular-front-app/angular-front-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer-front-angular/customer-front-angular.iml" filepath="$PROJECT_DIR$/customer-front-angular/customer-front-angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer-frontend_angular/customer-frontend_angular.iml" filepath="$PROJECT_DIR$/customer-frontend_angular/customer-frontend_angular.iml" />
+    </modules>
+  </component>
+</project>
